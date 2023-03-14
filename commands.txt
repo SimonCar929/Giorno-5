@@ -1,7 +1,0 @@
-
-
--git init
--git status
--git log
--git add .(for all files) | "name.html" 
--git commit -m
